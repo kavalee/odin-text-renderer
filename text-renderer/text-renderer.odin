@@ -1,7 +1,5 @@
 package font_renderer 
 
-import "core:fmt"
-import "core:time"
 import "core:mem"
 import glm "core:math/linalg/glsl"
 import SDL "vendor:sdl2"
